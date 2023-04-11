@@ -5,12 +5,12 @@
 }
 body{
     height: 100%;
-    background-color: black;
+    background-color:blueviolet;
     overflow: hidden;
 }
 .container{
 width: 20em;
-background-color: rgb(255, 255,255);
+background-color: white;
 overflow: hidden;
 border-radius: 1em;
 text-align: center;
